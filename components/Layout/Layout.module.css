@@ -1,0 +1,39 @@
+.main {
+  width: 100vw;
+  min-height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.header {
+  width: 100%;
+  background-color: #48ba7e;
+  padding: 20px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.header a {
+  font-size: 36px;
+  font-weight: 800;
+  margin-bottom: 20px;
+  margin-top: 10px;
+
+}
+.header p{
+    font-size: 22px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  padding: 20px;
+  background-color: #48ba7e;
+  width: 100%;
+  color: #fff;
+ 
+  text-align: center;
+}

@@ -6,6 +6,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
+  padding-bottom: 50px;
 }
 .header {
   width: 100%;
@@ -37,3 +38,20 @@
  
   text-align: center;
 }
+.container{
+  width: 90%;
+}
+
+@media only screen and (min-width:768px){
+  .container{
+    width: 80%;
+  }
+  
+}
+@media only screen and (min-width:1268px){
+  .container{
+    width: 70%;
+  }
+  
+}
+

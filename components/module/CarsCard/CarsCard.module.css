@@ -1,0 +1,58 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  width: 100%;
+  margin: 20px;
+  padding: 6px;
+  border-radius: 6px;
+  box-shadow: 0 0 20px -15px rgb(0, 0, 0, 0.9);
+}
+.container img {
+  width: 100%;
+  border-radius: 5px;
+}
+.imgdiv {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100%;
+  min-height: 220px;
+  max-height: 300px;
+  overflow: hidden;
+}
+.name{
+    width: 100%;
+    text-align: right;
+    font-size: 24px;
+    font-weight: 700;
+    color: #093105;
+    margin-bottom: 25px;
+}
+.yearediv{
+    display: flex;
+    width: 90%;
+
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+.loc{
+    display: flex;
+align-items: center;
+justify-content: space-between;
+width: 90%;
+margin-bottom: 20px;
+}
+@media only screen and (min-width: 768px) {
+  .container {
+    width: 45%;
+  }
+}
+@media only screen and (min-width: 1268px) {
+  .container {
+    width: 25%;
+  }
+}

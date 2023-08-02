@@ -12,7 +12,7 @@ export default function Categorydynamic() {
   const { category } = categorytype.query;
   const selectedcars = carsData.filter((car) => car.category === category);
   const backhandler=()=>{
-    categorytype.back()
+    categorytype.push('/cars')
   }
   return (
     <div>

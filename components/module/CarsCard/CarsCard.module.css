@@ -5,7 +5,7 @@
   justify-content: center;
 
   width: 100%;
-  margin: 20px;
+  margin: 13px;
   padding: 6px;
   border-radius: 6px;
   box-shadow: 0 0 20px -15px rgb(0, 0, 0, 0.9);
@@ -48,7 +48,7 @@ margin-bottom: 20px;
 }
 @media only screen and (min-width: 768px) {
   .container {
-    width: 45%;
+    width: 40%;
   }
 }
 @media only screen and (min-width: 1268px) {

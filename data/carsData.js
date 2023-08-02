@@ -1,6 +1,6 @@
 const carsData = [
   {
-    id: 1,
+    id:1,
     name: "پژو",
     model: "207",
     year: "1401",
@@ -13,7 +13,7 @@ const carsData = [
     category: "hatchback",
   },
   {
-    id: 2,
+    id:2,
     name: "BMW",
     model: "428 i",
     year: "2023",
@@ -26,7 +26,7 @@ const carsData = [
     category: "sport",
   },
   {
-    id: 3,
+    id:3,
     name: "BENZ",
     model: "C200",
     year: "2016",
@@ -38,7 +38,7 @@ const carsData = [
     category: "sedan",
   },
   {
-    id: 4,
+    id:4,
     name: "BANEZ",
     model: "G class",
     year: "2010",
@@ -50,7 +50,7 @@ const carsData = [
     category: "suv",
   },
   {
-    id: 5,
+    id:5,
     name: "toyota",
     model: "gt 86",
     year: "2005",
@@ -62,7 +62,7 @@ const carsData = [
     category: "sport",
   },
   {
-    id: 6,
+    id:6,
     name: "nissan",
     model: "gtr",
     year: "2012",
@@ -74,7 +74,7 @@ const carsData = [
     category: "sport",
   },
   {
-    id: 7,
+    id:7,
     name: "kia",
     model: "optima",
     year: "2018",
@@ -86,7 +86,7 @@ const carsData = [
     category: "sedan",
   },
   {
-    id: 8,
+    id:8,
     name: "hyunda",
     model: "santa fe",
     year: "2017",
@@ -98,7 +98,7 @@ const carsData = [
     category: "suv",
   },
   {
-    id: 9,
+    id:9,
     name: "kmc",
     model: "t8",
     year: "2022",
@@ -110,7 +110,7 @@ const carsData = [
     category: "pickup",
   },
   {
-    id: 10,
+    id:10,
     name: "hyunda",
     model: "tusan",
     year: "2018",
@@ -122,7 +122,7 @@ const carsData = [
     category: "suv",
   },
   {
-    id: 11,
+    id:11,
     name: "BENZ",
     model: "X class",
     year: "2021",
@@ -134,7 +134,7 @@ const carsData = [
     category: "pickup",
   },
   {
-    id: 12,
+    id:12,
     name: "irankhodro co",
     model: "dena",
     year: "2010",

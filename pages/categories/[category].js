@@ -1,5 +1,5 @@
 import React from "react";
-import { Router, useRouter } from "next/router";
+import {useRouter } from "next/router";
 import carsData from "../../data/carsData";
 import CarsPage from "@/components/templates/CarsPage";
 import Category from "@/components/module/Category/Category";

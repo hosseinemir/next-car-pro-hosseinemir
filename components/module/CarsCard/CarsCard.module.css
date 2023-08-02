@@ -48,11 +48,14 @@ margin-bottom: 20px;
 }
 @media only screen and (min-width: 768px) {
   .container {
-    width: 40%;
+    width: 44%;
+    
+    margin: 13px 3%;
   }
 }
 @media only screen and (min-width: 1268px) {
   .container {
-    width: 25%;
+    width: 27%;
+margin: 13px 3%;
   }
 }
